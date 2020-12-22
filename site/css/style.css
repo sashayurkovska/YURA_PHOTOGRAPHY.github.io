@@ -256,7 +256,18 @@
         text-decoration: none;
         color:white;
     }
-    
+    /*МАСШТАБИРОВАНИЕ ФОТОГРАФИЙ*/
+    .editor{
+        padding: 20px;
+        background-color: white;
+        align-items: center; 
+        text-align: center;
+        font-size: 20px;
+        font-weight: 400;
+        margin-bottom: 30px;
+        border-top: 1px solid black; 
+        border-bottom: 1px solid black;  
+    }
      /*footer. КОНТАКТЫ*/
     .footer{
         padding-top: 60px;

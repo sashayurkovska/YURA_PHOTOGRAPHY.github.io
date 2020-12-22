@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    font-size: 25px;
+    font-size: 1.4vw;
+}
+body {
+    margin: 0 auto;
+    max-width: 1200px;
+    background-color: #c6c6bc;
+    text-align: center;
+    font-family: 'Playfair Display SC', serif;
+    color: black;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 0;
+}
+a {
+    text-decoration: none;
+}
+header {
+    max-width: 100%;
+    float: left;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    font-size: 2vw;
+}
+.blocks{
+    display: block;
+    align-items: center;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.slider{
+    position: relative;
+    padding: 2%;
+}
+output{
+    position: absolute;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50%;
+    top: 0px;
+    background-color: black;
+}
+#mySlider{
+    background: white;
+    align-items: center;
+    width: 200vh;
+    -webkit-appearance: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+.button{
+    font-family: 'Playfair Display SC', serif;
+    color: black;
+    font-weight: 900;
+    background-color: white;
+    padding: 5px;
+    margin: 10px;
+}
+.middle {
+    float: left;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
